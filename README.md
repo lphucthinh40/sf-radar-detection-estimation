@@ -17,7 +17,7 @@ target_velocity = 30 m/s
 ```
 Sweep Bandwidth = 0.150 GHz
 Chirp Time = 7.3333E-6 s
-Number of chirps in on sequence = 128
+Number of chirps in one sequence = 128
 Number of samples in each chirp = 1024
 ```
 
